@@ -133,8 +133,6 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe features you will add to the project.
-
 - [ ] **[Query-animals-data]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
