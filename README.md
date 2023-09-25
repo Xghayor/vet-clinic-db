@@ -35,19 +35,7 @@
 ### Tech Stack <a name="tech-stack"></a>
 
 <details>
-  <summary>Client</summary>
-  <ul>
-    <li><a href="https://reactjs.org/">React.js</a></li>
-  </ul>
-</details>
-
-<details>
-  <summary>Server</summary>
-  <ul>
-    <li><a href="https://expressjs.com/">Ruby</a></li>
-  </ul>
-</details>
-
+ 
 <details>
 <summary>Database</summary>
   <ul>
@@ -60,14 +48,6 @@
 ### Key Features <a name="key-features"></a>
 
 - **[Animals-Data]**
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- LIVE DEMO -->
-
-## 🚀 Live Demo <a name="live-demo"></a>
-
-- [Live Demo Link](Will be available soon!)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -156,7 +136,7 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+> Describe features you will add to the project.
 
 - [ ] **[Query-animals-data]**
 
