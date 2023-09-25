@@ -1,22 +1,6 @@
 # Vet-Clinic
 
-
 <a name="readme-top"></a>
-
-
-REQUIRED SECTIONS:
-- Table of Contents
-- About the Project
-  - Built With
-  - Live Demo
-- Getting Started
-- Authors
-- Future Features
-- Contributing
-- Show your support
-- Acknowledgements
-- License
-
 
 # 📗 Table of Contents
 
@@ -49,8 +33,6 @@ REQUIRED SECTIONS:
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
-
-> Describe the tech stack and include only the relevant sections that apply to your project.
 
 <details>
   <summary>Client</summary>
