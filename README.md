@@ -106,13 +106,6 @@ To run tests, run the following command:
   bin/rails test test/models/article_test.rb
 ```
 
-
-### Deployment
-
-You can deploy this project using:
-
--Vercel, Netlify or Render
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- AUTHORS -->
@@ -151,8 +144,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project please star it
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -160,8 +151,6 @@ If you like this project please star it
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank Microverse.
 
