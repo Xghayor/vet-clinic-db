@@ -34,9 +34,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-<details>
- 
-<details>
 <summary>Database</summary>
   <ul>
     <li><a href="https://www.postgresql.org/">PostgreSQL</a></li>
