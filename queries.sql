@@ -22,9 +22,6 @@ FROM animals
 WHERE weight_kg BETWEEN 10.4 AND 17.3;
 
 
-ALTER TABLE animals ADD species varchar(255);
-
-
 BEGIN TRANSACTION;
 UPDATE animals SET species = 'unspecified';
 UPDATE animals SET species = 'digimon' WHERE name LIKE '%mon';

@@ -11,3 +11,4 @@ CREATE TABLE animals (
 
 
 
+ALTER TABLE animals ADD species varchar(255);
