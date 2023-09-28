@@ -42,23 +42,4 @@ REFERENCES owners(id);
 
 
 
-CREATE TABLE vets (
-    id SERIAL PRIMARY KEY,
-    name VARCHAR(255),
-    age INT,
-    date_of_graduation DATE
-);
 
-
-CREATE TABLE specializations (
-    species_id INT REFERENCES species(id),
-    vets_id INT REFERENCES vets(id),
-    PRIMARY KEY (species_id, vets_id)
-);
-
-CREATE TABLE visits (
-    id SERIAL PRIMARY KEY,
-    animal_id INT REFERENCES animals(id),
-    vet_id INT REFERENCES vets(id),
-    visit_date DATE
-);
