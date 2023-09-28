@@ -43,4 +43,3 @@ REFERENCES owners(id);
 
 
 
-
