@@ -118,6 +118,13 @@ To run tests, run the following command:
 - Twitter: [@twitterhandle](https://twitter.com/cc.baqir)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/ghayoorulbaqir)
 
+👤 **Author2**
+
+>Vikas Chib
+
+- GitHub: [@githubhandle](https://github.com/vikas924)
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 

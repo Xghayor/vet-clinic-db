@@ -283,3 +283,16 @@ GROUP BY species.name, vets.name
 ORDER BY COUNT(species.name) DESC 
 LIMIT 1;
 -- DONE
+
+-- Day 5
+-- The following queries are taking too much time (1 sec = 1000ms can be considered as too much time for database query).
+-- Try them on your machine to confirm it:
+
+EXPLAIN ANALYZE SELECT COUNT(*) FROM visits
+WHERE animals_id = 4;
+
+EXPLAIN ANALYZE SELECT * FROM visits 
+WHERE vet_id = 2;
+
+EXPLAIN ANALYZE SELECT * FROM owners 
+WHERE email = 'owner_18327@mail.com';
